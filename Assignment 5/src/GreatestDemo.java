@@ -9,7 +9,7 @@ public class GreatestDemo
 		
 		if (a>b && a>c)
 		{
-			System.out.println("a is greater");
+			System.out.println("a is Greater");
 		}
 		else if(b>a && b>c)
 		{
